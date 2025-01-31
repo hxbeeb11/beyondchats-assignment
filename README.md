@@ -1,10 +1,11 @@
 # BeyondChats - Chatbot Onboarding Assignment
 
-This project is my submission for the BeyondChats Frontend Developer position assignment. The task was to create a comprehensive UI/UX for setting up chatbots, focusing on user experience throughout the onboarding process - from user registration to chatbot integration.
+This project is my submission for the BeyondChats assignment. The task was to create a comprehensive UI/UX for setting up chatbots, focusing on user experience throughout the onboarding process - from user registration to chatbot integration.
 
 The implementation demonstrates my approach to creating intuitive, engaging, and professional user interfaces while adhering to modern web development practices and the provided evaluation criteria.
 
-🔗 **Live Demo**: [Your deployment URL here]
+🔗 **Live Demo**: [https://beyondchats-assignment.vercel.app/](https://beyondchats-assignment.vercel.app/)
+
 
 
 ## Features
@@ -50,7 +51,6 @@ The implementation demonstrates my approach to creating intuitive, engaging, and
 - **Authentication**: NextAuth.js
 - **UI Components**: Custom components with Tailwind
 - **Icons**: React Icons
-- **Animations**: Framer Motion
 - **Toast Notifications**: React Hot Toast
 
 ## Getting Started
